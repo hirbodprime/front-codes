@@ -35,10 +35,13 @@ body{
 }
 @media screen and (max-width:300px){
     .btn-container{
-        flex-direction: column;
-        
+        flex-direction: column;   
+    }
+    .btn-container a {
+        text-align: center;
     }
 }
+
 .form-group label{
     color: var(--base);
     display: block;

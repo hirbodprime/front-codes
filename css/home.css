@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #f2e8cf;
+}
+.header{
+    display: flex;
+}
+.left-header{
+   
+}
+.left-header a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.left-header img{
+    margin-left: 40px;
+    max-height: 20%;
+    max-width: 20%;
+    border-radius: 50%;
+}
+.left-header i {
+    color: rgb(80, 54, 14);
+    margin-left: 10px;
+}
+.left-header input {
+    align-items: flex-end;
+}
